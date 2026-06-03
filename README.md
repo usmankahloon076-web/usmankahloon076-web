@@ -1,26 +1,18 @@
-💫 About Me:
-🔭 I’m currently working on building machine learning projects, including a Fake News Detector using NLP, as well as Credit Risk and Customer Churn Prediction models.
-
-👯 I’m looking to collaborate on data science projects utilizing Python, particularly those involving exploratory data analysis and predictive modeling.
-
-🤝 I’m looking for help with advanced academic concepts like the Pumping Lemma for Theory of Automata, Compiler Construction, and optimizing AI search algorithms like A*.
-
-🌱 I’m currently learning to deepen my practical skills with libraries like Pandas, NumPy, Matplotlib, and Seaborn, focusing on real understanding and mental models rather than rote memorization.
-
-💬 Ask me about crafting prompts for realistic 8K AI image generation, unlocking stadiums in Cricket 24, or my favorite Urdu poetry by Jaun Elia and Sahir Ludhianvi.
-
-⚡ Fun fact: When I’m not coding, I’m likely on a quest for the best fast food in Lahore, specifically hunting down items like the Monster Beef Burger from Brim Burgers or hitting up Johnny and Jugnu.
-
-🌐 Socials:
-[LinkedIn](https://linkedin.com/in/Usman Kousar) [Mastodon](https://mastodon.social/@Usman Kousar ) email
-
-💻 Tech Stack:
-C++ Python AWS Anaconda NumPy Matplotlib Pandas PyTorch TensorFlow scikit-learn GitHub GitHub Actions Unity
-
-📊 GitHub Stats:
+# 💫 About Me:
+🔭 I’m currently working on building machine learning projects, including a Fake News Detector using NLP, as well as Credit Risk and Customer Churn Prediction models.<br><br>👯 I’m looking to collaborate on data science projects utilizing Python, particularly those involving exploratory data analysis and predictive modeling.<br><br>🤝 I’m looking for help with advanced academic concepts like the Pumping Lemma for Theory of Automata, Compiler Construction, and optimizing AI search algorithms like A*.<br><br>🌱 I’m currently learning to deepen my practical skills with libraries like Pandas, NumPy, Matplotlib, and Seaborn, focusing on real understanding and mental models rather than rote memorization.<br><br>💬 Ask me about crafting prompts for realistic 8K AI image generation, unlocking stadiums in Cricket 24, or my favorite Urdu poetry by Jaun Elia and Sahir Ludhianvi.<br><br>⚡ Fun fact: When I'm not coding, I'm likely on a quest for the best fast food in Lahore, specifically hunting down items like the Monster Beef Burger from Brim Burgers or hitting up Johnny and Jugnu.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Usman Kousar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Usman Kousar ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usmankahloon076@gmail.com ) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=usmankahloon076-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=usmankahloon076-web&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=usmankahloon076-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=usmankahloon076-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
